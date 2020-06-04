@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Handle_an_Event_Inside_Activity.iml" filepath="$PROJECT_DIR$/Handle_an_Event_Inside_Activity.iml" group="Handle_an_Event_Inside_Activity" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Handle_an_Event_Inside_Activity/app" />
+    </modules>
+  </component>
+</project>
